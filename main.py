@@ -723,4 +723,5 @@ async def unban(ctx, member_id = None):
         embed.set_thumbnail(url='https://cdn.discordapp.com/icons/795579014122438688/e2cb59f60423ffd8f561f40827400fe3.webp?size=1024')
         await ctx.send(embed=embed)
 
-client.run(token)
+client.run(fc264d52e4bdf5d15d97b50cea414569aef09b766144272beb25ce55a94b07ab
+      )
